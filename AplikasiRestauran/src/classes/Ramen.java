@@ -16,3 +16,4 @@ public class Ramen extends Menu{
         setKategori("Ramen");
     }
 }
+ 
