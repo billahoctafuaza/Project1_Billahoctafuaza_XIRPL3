@@ -38,4 +38,4 @@ public class Menu {
         this.kategori = kategori;
     }
 
-}
+} 
