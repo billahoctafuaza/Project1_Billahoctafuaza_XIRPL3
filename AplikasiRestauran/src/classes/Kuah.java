@@ -16,3 +16,4 @@ public class Kuah extends Menu{
         setKategori("Kuah");
     }
 }
+ 
